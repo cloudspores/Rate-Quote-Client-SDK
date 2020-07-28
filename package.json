@@ -1,6 +1,6 @@
 {
   "name": "challenge_api_service_prod",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Object",
   "license": "Unlicense",
   "main": "src/index.js",
